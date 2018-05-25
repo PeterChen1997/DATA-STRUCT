@@ -1,0 +1,30 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "A series of learning data-structure",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./src/*",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterChen1997/DATA-STRUCT.git"
+  },
+  "keywords": [
+    "data-structure"
+  ],
+  "author": "Oleksii Trekhleb (https://www.linkedin.com/in/trekhleb/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterChen1997/DATA-STRUCT/issues"
+  },
+  "homepage": "https://github.com/PeterChen1997/DATA-STRUCT#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.0.0",
+    "babel-preset-env": "^1.7.0",
+    "jest": "^23.0.0",
+    "regenerator-runtime": "^0.11.1"
+  }
+}
