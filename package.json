@@ -4,7 +4,6 @@
   "description": "A series of learning data-structure",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint ./src/*",
     "test": "jest"
   },
   "repository": {
